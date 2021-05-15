@@ -1,0 +1,6 @@
+.cabal-sandbox
+cabal.sandbox.config
+cabal.project.local
+dist-*
+_cache
+.DS_Store
