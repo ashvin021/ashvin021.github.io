@@ -11,7 +11,7 @@
   --primary: #ffffff;
   --secondary: var(--cultured);
   --primary-text: #030303;
-  --secondat-text: #050505;
+  --secondary-text: #050505;
 
   --primary-dark: var(--rich-black-fogra-39);
   --secondary-dark: var(--raisin-black);
@@ -120,6 +120,17 @@ article .header {
   background-size: cover;
   border-radius: 50%;
   border: 4px #ffffff solid;
+}
+
+.social-links {
+  font-size: 2.8rem;
+  text-align: center;
+  padding: 2.0rem;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: var(--secondary-text);
 }
 
 /*-------------------------------------------------------------------------- */
@@ -280,5 +291,9 @@ article .header {
   /* Home Page */
   .index.intro .profile-pic {
     border: 4px var(--accent) solid;
+  }
+
+  .social-links a {
+    color: var(--secondary-text-dark);
   }
 }
