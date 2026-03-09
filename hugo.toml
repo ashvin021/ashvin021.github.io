@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = true
     languageDirection = 'ltr'
     languageName = 'සිංහල'
     weight = 1
-    footerHtml = '© 𑇢𑇴𑇫𑇤 අශ්වින් අර්සකුලරත්න, <a href="https://gohugo.io" class="footerLink">Hugo</a> සහ <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> තේමාවෙන් ඉදිකර ඇත'
+    footerHtml = '© 𑇢𑇴𑇫𑇦 අශ්වින් අර්සකුලරත්න, <a href="https://gohugo.io" class="footerLink">Hugo</a> සහ <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> තේමාවෙන් ඉදිකර ඇත'
 
         [languages.si.params.author]
           name = "අශ්වින් අර්සකුලරත්න"
@@ -67,6 +67,5 @@ defaultContentLanguageInSubdir = true
 
         [languages.si.params.index]
           title = "👋 හලෝ, මම අශ්වින්෴"
-          description = """මම මෘදුකාංග ඉංජිනේරුවෙකු වන අතර, දැනට ලන්ඩන්, එක්සත් රාජධානියේ ජීවත්වමින් සහ වැඩ කරමින් සිටිමි. මගේ වෙබ්අඩවියට සාදරයෙන් පිළිගනිමු. මෙහිදී මම අදහස්, ව්‍යාපෘති සහ මගේ සිතුවිලි බෙදා හදා ගන්නෙමි!
+          description = """මම ලන්ඩන්හි ජීවත් වෙන මෘදුකාංග ඉංජිනේරුවෙක්. මගේ වෙබ්අඩවියට සාදරයෙන් පිළිගන්නවා - මෙතැන මම අදහස්, ව්‍යාපෘති, සහ මගේ හිතට එන දේවල් බෙදාගන්නවා!
 ෴෴෴"""
-
